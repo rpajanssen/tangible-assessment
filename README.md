@@ -6,7 +6,7 @@ Each assignment focuses on different aspects of Java programming, aspects common
 
 > Important: There is no wrong or right. Many different paths lead to success!
 
-Assignment 1 - Create Service
+Assignment 1 - Create Service (20 mins)
 =
 The person service obtains persons from the database (h2).
 It provides two services/methods
@@ -23,6 +23,13 @@ Get Filtered Persons
 -
 Return only Persons which are **not** born in the banned years (see banned-years file).
 
+Before you start
+-
+- [F1] is the most **important** key in the online IDE
+- Set the timer before **each** assignment: [F1] > start timer
+- 
+
+
 General remarks
 =
 bla bla...   
@@ -34,7 +41,7 @@ bla bla...
 
 these aspects could be topic of discussion during interview.
 
-Assignment 2 - Create spingboot web application
+Assignment 2 - Create Springboot web application (15 mins)
 -
 Use the previous PersonService and create a web restful endpoints.   
 aspects
@@ -42,14 +49,14 @@ aspects
 - error handling
 - (testing)
 
-Assignment 3 - Create a commandline client to invoke the endpoints
+Assignment 3 - Create a commandline client to invoke the endpoints (15 mins)
 -
 aspects   
 - Choice of framework, (e.g. spring-boot commandline-runner, or any other)
 - reuse code already made in previous assignments
 - use of thirdparty libraries
 
-Assignment 4 - Create another restful web-application
+Assignment 4 - Create another restful web-application (20 mins)
 -
 This web application should also invoke the rest endpoints from assignment 2.   
 (If assignment 3 is not accompished, this assignment can still be made)
