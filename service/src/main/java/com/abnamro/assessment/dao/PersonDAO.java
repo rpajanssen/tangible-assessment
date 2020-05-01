@@ -1,4 +1,4 @@
-package com.abnamro.coesd.assessment.dao;
+package com.abnamro.assessment.dao;
 
 /**
  * PersonDao

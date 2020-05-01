@@ -1,9 +1,9 @@
-package com.abnamro.coesd.assessment.service;
+package com.abnamro.assessment.service;
 
 import java.util.Collections;
 import java.util.List;
 
-import com.abnamro.coesd.assessment.model.Person;
+import com.abnamro.assessment.model.Person;
 
 /**
  * PersonService
