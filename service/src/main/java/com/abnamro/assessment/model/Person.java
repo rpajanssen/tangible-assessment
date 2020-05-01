@@ -1,4 +1,4 @@
-package com.abnamro.coesd.assessment.model;
+package com.abnamro.assessment.model;
 
 import java.time.LocalDate;
 

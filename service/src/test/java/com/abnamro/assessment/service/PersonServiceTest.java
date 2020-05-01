@@ -1,4 +1,4 @@
-package com.abnamro.coesd.assessment.service;
+package com.abnamro.assessment.service;
 
 import static org.junit.Assert.assertEquals;
 
