@@ -16,7 +16,7 @@ The service provides two services/methods:
 Create a person
 -
 All Persons require a name with at least 2 characters and a birthdate.
-Duplicate person names are **not** allowed, throw an exception that explains what the problem is.  
+Duplicate person names are **not** allowed, throw an exception that explains what the problem is.
 When a person does not meet the requirements, throw an exception that explains what the violations are.
 
 Get filtered persons
@@ -28,7 +28,7 @@ Before you start
   url (e.g. https://gitpod.io/#https://github.com/mygithib/my-demo)
 - [F1] is the most **important** key in the online IDE
 - Set the timer before **each** assignment: [F1] > start timer
-- 
+-
 
 General remarks
 =
@@ -45,27 +45,27 @@ Assignment 2 - Create Springboot web application (15 mins)
 Use the previous service and create a restful endpoint to expose the service. You need to implement
 two REST services:
 - create person
-- get filtered persons 
+- get filtered persons
 
 This assignment is about the following aspects:
-- set up and implement a rest api 
+- set up and implement a rest api
 - validation
 - error handling
 - testing
 
 Assignment 3 - Create a commandline client to invoke the endpoints (15 mins)
 -
-This assignment is about the following aspects:  
+This assignment is about the following aspects:
 - Choice of framework, (e.g. spring-boot commandline-runner, or any other)
 - calling a rest api
 
 Assignment 4 - Create another restful web-application (20 mins)
 -
-This web application should also invoke the rest endpoints from assignment 2.   
+This web application should also invoke the rest endpoints from assignment 2.
 (If assignment 3 is not accompished, this assignment can still be made)
 
-This assignment is about the following aspects: 
+This assignment is about the following aspects:
 - resilience / fault tolerance
 - traceability
-- context propogation
+- context propagation
 - service discovery
